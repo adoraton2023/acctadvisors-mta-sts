@@ -1,1 +1,5 @@
-
+version: STSv1
+mode: enforce
+mx: d364125a.ess.barracudanetworks.com
+mx: d364125b.ess.barracudanetworks.com
+max_age: 604800
